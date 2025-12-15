@@ -1,5 +1,5 @@
 # Hi there, I'm Jiwon Lee 👋
-### ✍️ Writing SDET | Quality Evangelist | | Community Leader | Test Automation Architect | 10+ Years Exp.
+### ✍️ Writing SDET | Quality Evangelist | Community Leader | Test Automation Architect | 10+ Years Exp.
 
 <div align="center">
 
