@@ -11,7 +11,7 @@
 ---
 
 ### 📢 "Sharing Insights, Engineering Quality"
-저는 10년 차 **Software Development Engineer in Test**이자, 지식 공유를 즐기는 테크니컬 라이터입니다.
+저는 10년차 **Software Development Engineer in Test**이자, 지식 공유를 즐기는 테크니컬 라이터입니다.
 오픈소스 자동화 생태계에 기여하고자 **Appium Korea** 커뮤니티를 설립하여 이끌고 있으며,
 단순히 버그를 찾는 것을 넘어 **지속 가능한 품질 문화**를 전파하고 동료 엔지니어들의 성장을 돕는 데 열정을 쏟고 있습니다.
 
