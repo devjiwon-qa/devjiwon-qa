@@ -16,4 +16,3 @@ jobs:
         with:
           feed_list: "https://brunch.co.kr/rss/@@95BE"
           max_post_count: 5
-          comment_tag_name: "Latest Blog Posts"
