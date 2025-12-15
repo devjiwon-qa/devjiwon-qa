@@ -15,11 +15,10 @@
 오픈소스 자동화 생태계에 기여하고자 **Appium Korea** 커뮤니티를 설립하여 이끌고 있으며,
 단순히 버그를 찾는 것을 넘어 **지속 가능한 품질 문화**를 전파하고 동료 엔지니어들의 성장을 돕는 데 열정을 쏟고 있습니다.
 
-> **"Quality is value to some person."**
-> 
-> * 📚 **Author:** [QA Engineer 매거진](https://brunch.co.kr/magazine/qaengineer)에 **100개 이상의 테스팅 관련 아티클**을 연재했습니다.
-> * 🌏 **Community:** **Appium Korea** 커뮤니티를 운영하며 국내 모바일 테스트 자동화 생태계를 넓히고 있습니다.
-> * 🏗️ **Architect:** 견고한 테스트 자동화 프레임워크 설계 및 CI/CD 파이프라인 최적화 전문.
+**"Quality is value to some person."**
+* 📚 **Author:** [QA Engineer 매거진](https://brunch.co.kr/magazine/qaengineer)에 **100개 이상의 테스팅 관련 아티클**을 연재했습니다.
+* 🌏 **Community:** **Appium Korea** 커뮤니티를 운영하며 국내 모바일 테스트 자동화 생태계를 넓히고 있습니다.
+* 🏗️ **Architect:** 견고한 테스트 자동화 프레임워크 설계 및 CI/CD 파이프라인 최적화 전문.
 
 ---
 
@@ -60,7 +59,6 @@
 ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=flat-square&logo=webdriverio&logoColor=white)
 ![Selenide](https://img.shields.io/badge/Selenide-000000?style=flat-square&logo=selenium&logoColor=white)
 ![Carina](https://img.shields.io/badge/Carina_Framework-00A4CC?style=flat-square&logo=c&logoColor=white)
-
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF7F00?style=flat-square&logo=testng&logoColor=white)
