@@ -6,8 +6,6 @@
 [![Brunch Magazine](https://img.shields.io/badge/Brunch-QA_Engineer_Magazine-00C73C?style=for-the-badge&logo=brunch&logoColor=white)](https://brunch.co.kr/magazine/qaengineer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[YOUR_LINKEDIN_ID])
 
-![Profile Views](https://komarev.com/ghpvc/?username=devjiwon-qa&color=00C73C)
-
 </div>
 
 ---
